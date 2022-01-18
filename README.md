@@ -1,2 +1,2 @@
 # Isaac-Sim
-Isaac-Sim Simple Project
+Isaac-Sim Project
